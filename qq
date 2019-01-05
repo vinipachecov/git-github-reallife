@@ -1,0 +1,70 @@
+[33mcommit f157bae985bddc9cdd15fe9a11b02822faca65a1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:18:50 2019 -0200
+
+    usando cherry pick
+
+[33mcommit eaea34477fc1693e459d88821d907901600e471f[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:42:37 2019 -0200
+
+    update text intro heading
+
+[33mcommit 14e5ef4a58811b91c2a654d0a52bb0cd95990733[m
+Merge: 3800151 d0109c6
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:37:23 2019 -0200
+
+    after pull
+
+[33mcommit 380015124c070bb17f95e73f3a301c681700afcd[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:36:25 2019 -0200
+
+    new comment
+
+[33mcommit d0109c6f8b6813bf236f9870adc287526e50fd13[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:30:14 2019 -0200
+
+    Revert "heading update"
+    
+    This reverts commit 3ac756e2bfc1762dc0cddfcfafaace0c10d5adf6.
+
+[33mcommit 3ac756e2bfc1762dc0cddfcfafaace0c10d5adf6[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:29:36 2019 -0200
+
+    heading update
+
+[33mcommit 152c9e176d08a773e5ae7a1550fcac28025c637b[m
+Author: Vinícius Pacheco Vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:17:46 2019 -0200
+
+    Delete heading
+
+[33mcommit d63d2113e4123ff47c6112d21691221fe62ffc2a[m
+Author: Vinícius Pacheco Vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:11:25 2019 -0200
+
+    add heading
+    
+    Add heading commit.
+
+[33mcommit 3b0eeca812a3bd0d4a910fa05e4cc438fa10b4b0[m
+Author: Vinícius Pacheco Vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 15:01:40 2019 -0200
+
+    Update README.md
+
+[33mcommit d8eb86bb0fca1cb6577b6d0ed6f2757a6f30283d[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 13:47:14 2019 -0200
+
+    Change site title
+
+[33mcommit 540c60c8b88826f6a2cb0a4f8d3b0293ee32ed9e[m
+Author: vinicius p vieira <vinipachecov@gmail.com>
+Date:   Sat Jan 5 13:32:59 2019 -0200
+
+    Add initial setup
